@@ -1,4 +1,4 @@
-# Dillinger
+# travelFunds
 
 
 travelFunds is a mobile apps which lets you plan and raise funds for a trip with friends.
